@@ -17,6 +17,7 @@ This directory contains optimized molecular structures obtained using Density Fu
 Contents include:
 
 Optimized geometries of all studied molecules
+
 Input and/or output files from DFT calculations (Gaussian)
 
 2. PLANTS_DOCK/
@@ -26,6 +27,7 @@ This directory contains molecular docking results generated using the PLANTS doc
 Contents include:
 
 Docked conformations (binding poses)
+
 Output files necessary to reproduce docking results
 
 3. VINA_DOCK/
@@ -35,6 +37,7 @@ This directory includes molecular docking results obtained using AutoDock Vina.
 Contents include:
 
 Predicted binding poses of ligands with the target molecule
+
 Configuration files used during docking simulations
 
 4. Molecular_Dynamics_Data/
@@ -44,6 +47,7 @@ This directory contains data derived from molecular dynamics (MD) simulations.
 Contents include:
 
 Root Mean Square Deviation (RMSD) plots from 100 ns simulations
+
 Hydrogen bond analysis graphs
 
 
