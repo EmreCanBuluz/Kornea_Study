@@ -5,7 +5,7 @@ Computational Data Supporting Multi-Target Effects of Losartan on Cornea-Related
 
 Overview
 
-This repository contains computational data generated and analyzed in the study titled "Multi-Target Effects of Losartan on Cornea-Related Proteins: Protein-Protein Interactions, Molecular Docking and Dynamic Simulations", submitted to an American Chemical Society (ACS) journal. The datasets are organized into structured directories corresponding to different computational methodologies, including Density Functional Theory (DFT), molecular docking, and molecular dynamics (MD) simulations.
+This repository contains computational data generated and analyzed in the study titled "Multi-Target Effects of Losartan on Cornea-Related Proteins: Protein-Protein Interactions, Molecular Docking and Dynamic Simulations", submitted to a journal. The datasets are organized into structured directories corresponding to different computational methodologies, including Density Functional Theory (DFT), molecular docking, and molecular dynamics (MD) simulations.
 
 All data provided here are intended to ensure transparency, reproducibility, and accessibility of the results reported in the manuscript.
 
